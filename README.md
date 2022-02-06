@@ -1,16 +1,6 @@
-# weather
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Автор: Михаил Растопчин.
+Тестовое задание написано на Flutter(версия 2.5.3).
+Приложение показывает погоду в выбранном городе. Приложение требует выбрать город при первом запуске. В последствии город можно в любой момент изменить. Погода отображается в трёх вкладках: "сейчас", "на сутки", "на неделю". Справочник городов содержит только населённые пункты России.
+Для запуска приложения необходима установленная соответствующая версия фреймворка (null safety).
+Авторизация в приложении не требуется. Логин и пароль не нужны.
+Для запуска проекта необходимо склонировать его на локальный компьютер и запустить в эмуляторе в режиме запуска и отладки.
